@@ -1,0 +1,51 @@
+Id,Setting,State,Region,Stage,Theme,Type,Score,
+2,Urban,TN,Southeast,Prototype,Career Exploration,Nonprofit,37,1
+5,Urban,FL,Southeast,Prototype,Career Exploration,For-profit,36,2
+16,Urban,GA,Southeast,Growth,Career Exploration,Nonprofit,35,3
+25,Urban,MI,Midwest,Prototype,Career Exploration,Limited Liability,34,4
+30,Urban,TX,Southwest,Idea,Career Exploration,Limited Liability,33,5
+34,Urban,OH,Midwest,Prototype,Career Exploration,Nonprofit,32,6
+14,Urban,MA,New England,Prototype,Career Exploration,For-profit,31,7
+43,Urban,MD,Mid-Atlantic,Idea,Career Exploration,Nonprofit,29,8
+22,Urban,WV,Southeast,Growth,Career Exploration,Nonprofit,28,9
+7,Urban,TX,Southwest,Idea,Activating Employer Partnerships,Limited Liability,27,10
+27,Urban,CA,Pacific,Prototype,Activating Employer Partnerships,For-profit,27,11
+24,Urban,CA,Pacific,Idea,Career Exploration,Nonprofit,26,12
+4,Urban,AL,Southeast,Prototype,Career Exploration,For-profit,25,13
+18,Urban,NH,New England,Prototype,Career Exploration,Limited Liability,23,14
+46,Urban,MS,Southeast,Prototype,Career Exploration,Limited Liability,23,15
+21,Urban,KY,Southeast,Growth,Activating Employer Partnerships,Nonprofit,22,16
+26,Urban,LA,Southeast,Prototype,Career Exploration,For-profit,22,17
+40,Urban,CA,Pacific,Idea,Career Exploration,Nonprofit,22,18
+49,Urban,TN,Southeast,Idea,Career Exploration,Nonprofit,22,19
+8,Urban,ND,Midwest,Prototype,Career Exploration,For-profit,21,20
+9,Urban,DC,Mid-Atlantic,Prototype,Career Exploration,For-profit,21,21
+33,Urban,NY,Mid-Atlantic,Prototype,Career Exploration,Limited Liability,21,22
+35,Urban,TN,Southeast,Prototype,Career Exploration,Nonprofit,21,23
+42,Urban,CA,Pacific,Prototype,Career Exploration,Nonprofit,21,24
+51,Urban,NY,Mid-Atlantic,Prototype,Career Exploration,Nonprofit,21,25
+17,Urban,MA,New England,Prototype,Activating Employer Partnerships,Nonprofit,20,26
+28,,,Southwest,Prototype,Career Exploration,Nonprofit,20,27
+37,Urban,AL,Southeast,Prototype,Career Exploration,Nonprofit,20,28
+41,Urban,GA,Southeast,Idea,Career Exploration,Nonprofit,20,29
+44,Urban,HI,Pacific,Prototype,Career Exploration,Nonprofit,20,30
+50,Urban,VA,Southeast,Growth,Activating Employer Partnerships,Nonprofit,20,31
+12,Urban,AZ,Southwest,Prototype,Career Exploration,Nonprofit,18,32
+36,Urban,CA,Pacific,Growth,Career Exploration,For-profit,17,33
+11,Urban,CA,Pacific,Prototype,Activating Employer Partnerships,For-profit,16,34
+13,Urban,GA,Southeast,Prototype,Career Exploration,Nonprofit,16,35
+29,,,#N/A,Prototype,Activating Employer Partnerships,Limited Liability,16,36
+31,Urban,NY,Mid-Atlantic,Growth,Activating Employer Partnerships,Nonprofit,16,37
+45,Urban,FL,Southeast,Idea,Career Exploration,Limited Liability,16,38
+20,Urban,DC,Mid-Atlantic,Growth,Activating Employer Partnerships,Nonprofit,15,39
+23,Urban,IN,Midwest,Prototype,Career Exploration,Nonprofit,15,40
+38,Urban,PA,Mid-Atlantic,Prototype,Career Exploration,Nonprofit,15,41
+3,Urban,TN,Southeast,Prototype,Career Exploration,Nonprofit,14,42
+10,Urban,CA,Pacific,Prototype,Career Exploration,Nonprofit,14,43
+15,Urban,CA,Pacific,Prototype,Career Exploration,Nonprofit,14,44
+32,Urban,CO,Mountain,Prototype,Career Exploration,Nonprofit,14,45
+39,Urban,OH,Midwest,Prototype,Career Exploration,Limited Liability,14,46
+6,Urban,PA,Mid-Atlantic,Growth,Career Exploration,Nonprofit,13,47
+19,Urban,DC,Mid-Atlantic,Growth,Career Exploration,Nonprofit,13,48
+47,Urban,FL,Southeast,Idea,Career Exploration,Nonprofit,13,49
+48,Urban,TX,Southwest,Idea,Career Exploration,Nonprofit,12,50
