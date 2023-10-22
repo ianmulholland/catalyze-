@@ -40,9 +40,13 @@ sorted_employer_partner_df.reset_index(drop=True, inplace=True)
 
 
 import streamlit as st
-# Display the DataFrame in Streamlit
+# Configuration
 st.image("images.jpg", use_column_width=True)  # Replace with the path to your logo image
 st.title("Catalyze Round 3 Scoring Portfolio Balance")
+
+st.set_page_config(page_title=Catalyze Dashboard)
+
+
 
 #tabs
 tab1, tab2 = st.tabs(["Balance by scores", "Balance by Theme"])
